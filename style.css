@@ -1,0 +1,15 @@
+body{
+    background-color: #525252;
+}
+h3 { 
+    text-align: center;
+}
+.centered-form{
+    margin-top: 60px;
+    margin-left: 20px;
+}
+
+.centered-form .panel{
+	
+	box-shadow: rgba(0, 0, 0, 0.3) 20px 20px 20px;
+}
